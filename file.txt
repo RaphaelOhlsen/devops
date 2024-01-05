@@ -1,0 +1,1 @@
+First change tdFileDrop (fileDrop)="onFileDrop(event)"
