@@ -1,2 +1,3 @@
 First change tdFileDrop (fileDrop)="onFileDrop(event)"
 Nova linha local
+Outra linha
